@@ -9,8 +9,43 @@
     background-position: center
     background-repeat: no-repeat
 
+  .img-src
+    position: absolute
+    right: 0
+    bottom: 0
+
   h1
     font-size: 4rem
+
+    em
+      background-color: #000
+      color: $white
+      padding: .2em
+      line-height: 2em
+      font-size: 5rem
+      font-style: normal
+
+  .author
+    display: block
+    margin-top: .5em
+
+  cite
+    display: block
+    margin-top: .5em
+
+  h1.comic
+    font-family: 'Pacifico'
+    font-size: 5rem
+    text-transform: none !important
+
+  #death-by-powerpoint
+    background: #fed70e
+
+    h1
+      background: #000
+      color: $white
+      font-size: 6rem
+
 
   #start
     h1, h2
@@ -23,9 +58,49 @@
       font-style: italic
       font-weight: 400
 
-  #explore
-    background-image: url('../img/explore.jpg')
+  #mad-men
+    background-image: url('../img/mad-men.png')
     color: $white
+
+  .big-icon
+    font-size: 15em
+
+  #intro-ingredients, #intro-ingredients2
+    @media (min-width: 768px)
+      .fa-stack
+        position: relative
+        top: 1em
+
+      .left-icon
+        left: .5em
+
+      .right-icon
+        right: .5em
+
+      .center-icon
+        top: -1em
+
+  #intro-ingredients-storytelling-von-heiseler
+    blockquote
+      font-size: 3rem
+
+  #projector
+    background-image: url('../img/projector.jpg')
+
+  #thirtyfivemm
+    background-color: #000
+
+  #bad-powerpoint
+    background-image: url('../img/bad-ppt.jpg')
+    background-size: contain
+
+  #prezi
+    background-image: url('../img/prezi.png')
+
+  #narrative-flow
+    background-image: url('../img/neverending-story.jpg')
+    h1
+      color: #263173
 
   #science
     background-image: url('../img/lab.jpg')
