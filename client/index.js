@@ -54,11 +54,11 @@ ReactDOM.render( (
         Everybody can relate to, own expert advice & experience<br/>
         So as a first step, research what science tell us; compelling presentations<br/><br/><br/>
         Research has shown that listener's attention span drops off after approx. 18min,
-        so I already want to apologise for the last 10 boring ones.<br />
-        As you've probably read by now, this talk here, is going to be about presentation tools.<br />
+        so I already want to apologise for the last 10 boring ones.<br/>
+        As you've probably read by now, this talk here, is going to be about presentation tools.<br/>
         And, honestly, giving presentations about presentations turns out to be fairly stressful,
-        as the expectations are always really high.<br />
-        It is something everyone can relate to and everybody has their own expert advice and experience on.<br />
+        as the expectations are always really high.<br/>
+        It is something everyone can relate to and everybody has their own expert advice and experience on.<br/>
         So as a first step in the preparation for this talk, I wanted to summarise what science tells us about
         the art of giving compelling presentations.
       </Notes>
@@ -92,9 +92,9 @@ ReactDOM.render( (
         Estimated 80-90% perception through eyes.<br/>
         Study conducted 3M, images processed 60k times faster than text<br/>
         Reading + listening almost impossible; reason not a lot of text here<br/><br/><br/><br/>
-        It is estimated that between 80-90% of what we humans perceive, comes in through our eyes. We are visual beings.<br />
-        A study conducted by 3M found that images and graphics can be processed by the brain as much as 60k times faster than text.<br />
-        Moreover, reading while listening is known to be almost impossible, which is the reason why this presentation will not include a lot of text.<br />
+        It is estimated that between 80-90% of what we humans perceive, comes in through our eyes. We are visual beings.<br/>
+        A study conducted by 3M found that images and graphics can be processed by the brain as much as 60k times faster than text.<br/>
+        Moreover, reading while listening is known to be almost impossible, which is the reason why this presentation will not include a lot of text.<br/>
       </Notes>
     </Slide>
     <Slide name="intro-ingredients-storytelling">
@@ -104,16 +104,16 @@ ReactDOM.render( (
       </span>
       <h1>Story Telling</h1>
       <Notes>
-        Next and probably best-known ingredient: storytelling.<br />
-        Anthropologist and evolutionary scientist Robin Dunbar, 65% of speaking time dedicated to telling stories.<br />
+        Next and probably best-known ingredient: storytelling.<br/>
+        Anthropologist and evolutionary scientist Robin Dunbar, 65% of speaking time dedicated to telling stories.<br/>
         He argues, gossiping + storytelling replaced grooming as sign of social affiliation<br/>
-        when ancestors started living in bigger social groups.<br /><br/><br/><br /><br/><br/>
+        when ancestors started living in bigger social groups.<br/><br/><br/><br/><br/><br/>
 
-        The next and probably best-known ingredient is storytelling.<br />
+        The next and probably best-known ingredient is storytelling.<br/>
         The anthropologist and evolutionary scientist Robin Dunbar has found that as much as
-        65% of our speaking time in public places is dedicated to telling stories.<br />
+        65% of our speaking time in public places is dedicated to telling stories.<br/>
         He argues that gossiping and general storytelling replaced grooming as a sign of
-        social affiliation as our ancestors started living in bigger social groups.<br />
+        social affiliation as our ancestors started living in bigger social groups.<br/>
       </Notes>
     </Slide>
     <Slide name="intro-ingredients-storytelling-von-heiseler">
@@ -121,16 +121,16 @@ ReactDOM.render( (
       <span className="author">– Till Nikolaus von Heiseler, 2014</span>
       <cite>Language evoloved for storytelling in a super-fast evolution. In: R. L. C. Cartmill, Eds. Evolution of Language. London: World Scientific, pp. 114-121.</cite>
       <Notes>
-        Von Heiseler even goes as far as saying<br />
+        Von Heiseler even goes as far as saying<br/>
         "Language is neither adapted simply to the brain, nor the brain directly to language; instead, both language and brain are
-        adapted to storytelling"<br />
+        adapted to storytelling"<br/>
         -> Language evolved through storytelling
         -> explains evolutionary importance + why such an important element in keeping the audience's attention.
-        <br/><br /><br/><br/>
+        <br/><br/><br/><br/>
 
-        Von Heiseler even goes as far as saying<br />
+        Von Heiseler even goes as far as saying<br/>
         Language is neither adapted simply to the brain, nor the brain directly to language; instead, both language and brain are
-        adapted to storytelling<br />
+        adapted to storytelling<br/>
         Which explains its evolutionary importance and why it is such an important element in keeping the audience's attention.
       </Notes>
     </Slide>
@@ -147,10 +147,10 @@ ReactDOM.render( (
         Majority felt more engaged with presentation.<br/>
         Help winning audience's attention back + keep interested.
         <br/><br/><br/><br/>
-        The last point outlined by Shattuck is <emph>interaction</emph>.<br />
-        According to the Internet Advertising Bureau twice as many consumers for example found interactive adverts memorable than static ones.<br />
+        The last point outlined by Shattuck is <emph>interaction</emph>.<br/>
+        According to the Internet Advertising Bureau twice as many consumers for example found interactive adverts memorable than static ones.<br/>
         The same was reported by microsoft research when introducing an instant feedback mechanism to presentations:
-        The vast majority of listeners felt more engaged with the presentation.<br />
+        The vast majority of listeners felt more engaged with the presentation.<br/>
         This can help winning the audience's attention back and keeping them interested.
       </Notes>
     </Slide>
@@ -177,11 +177,11 @@ ReactDOM.render( (
         <br/><br/><br/><br/>
 
         Having developed an interactive presentation tool myself, this last pillar is the one I have concentrated on most so far,
-        but today I want to introduce you to tools that aim to also help with the other two.<br />
+        but today I want to introduce you to tools that aim to also help with the other two.<br/>
         Stephens et al.'s neuroscientifical studies on speaker-listener interaction have shown a tight neural coupling between
-        audience and presenter.<br />
+        audience and presenter.<br/>
         This means I can only inspire you if I am myself enthusiastic about my research. However, it also means that I can only
-        perform well at this task if you are with me.<br />
+        perform well at this task if you are with me.<br/>
       </Notes>
     </Slide>
     <Slide name="intro-ip">
@@ -194,18 +194,18 @@ ReactDOM.render( (
         <br/><br/><br/><br/>
 
         So please, lend me your ear for the next 20min and I would like to invite you to navigate your laptops' or phones'
-        browsers to "..." or scan the QR code to follow the presentation and fully participate in the interactive parts of this talk.<br />
+        browsers to "..." or scan the QR code to follow the presentation and fully participate in the interactive parts of this talk.<br/>
         If you have related articles or questions, please feel free to use the "sharing" functionality of this tool.
       </Notes>
     </Slide>
     <Slide name="presentation-tools">
       <h1 className="comic">Presentation Tools</h1>
       <Notes>
-        So... let's start talking about presentation tools.<br />
+        So... let's start talking about presentation tools.<br/>
         Which tool first comes to mind?? --> POWERPOINT<br/>
         <br/><br/><br/><br/>
-        So... let's start talking about presentation tools.<br />
-        Which is the first one that comes to mind when talking about presentation tools?<br />
+        So... let's start talking about presentation tools.<br/>
+        Which is the first one that comes to mind when talking about presentation tools?<br/>
         Exactly. PowerPoint.
       </Notes>
     </Slide>
@@ -227,9 +227,9 @@ ReactDOM.render( (
         <br/><br/><br/><br/>
 
         Long before powerpoint, already in the beginning of the 20th century, marketing departments started to discover the power
-        of visual aids in pitches.<br />
+        of visual aids in pitches.<br/>
         According to Yates and Orlikowski, these early slides usually included graphs and charts, but had the disadvantage
-        of having to be prepared and printed by the design department in advance.<br />
+        of having to be prepared and printed by the design department in advance.<br/>
         This became so important, some companies even had a dedicated chart viewing room.
       </Notes>
     </Slide>
@@ -240,8 +240,8 @@ ReactDOM.render( (
         Effects: drawing/annotating on transparencies; hiding with paper; adding overlays<br/>
         <br/><br/><br/><br/>
 
-        By the second half of the 20th century, overhead projectors had found their way into business presentations.<br />
-        In the decade between 1975 and 1985 the number of sold overhead projectors went from only 50k to over 120k per year.<br />
+        By the second half of the 20th century, overhead projectors had found their way into business presentations.<br/>
+        In the decade between 1975 and 1985 the number of sold overhead projectors went from only 50k to over 120k per year.<br/>
         Effects could be added by either drawing on the transparencies, hiding parts with a paper or adding overlays.
       </Notes>
     </Slide>
@@ -253,8 +253,8 @@ ReactDOM.render( (
         <br/><br/><br/><br/>
 
         For more polished presentations, 35mm films were used. These, however, also had to be prepared in advance,
-        but could usually be printed in-house, which sped up the process a lot.<br />
-        What you can see up there btw, is also the reason why many presentation tools use the metaphor of "slides".<br />
+        but could usually be printed in-house, which sped up the process a lot.<br/>
+        What you can see up there btw, is also the reason why many presentation tools use the metaphor of "slides".<br/>
       </Notes>
     </Slide>
     <Slide name="bad-powerpoint">
@@ -265,8 +265,8 @@ ReactDOM.render( (
         95% market share in 2001.<br/>
         <br/><br/><br/><br/>
 
-        In 1987, with the emergence of personal computers, the first version of PowerPoint was launched into the market.<br />
-        In the beginning it was used as a tool for creating black and white graphics which were then printed onto transparencies.<br />
+        In 1987, with the emergence of personal computers, the first version of PowerPoint was launched into the market.<br/>
+        In the beginning it was used as a tool for creating black and white graphics which were then printed onto transparencies.<br/>
         When MS acquired the software and through the growing availibility of laptops, PowerPoint evolved into THE presentation
         tool with a market share of 95% by 2001.<br/>
       </Notes>
@@ -279,7 +279,7 @@ ReactDOM.render( (
         Autors argue: typical bullet point layout not good for giving presentations<br/>
         Fancy effects, text-heavy slides distract instead of supporting<br/>
         <br/><br/><br/><br/>
-        However, not everybody is a big fan of PowerPoint and Keynote and the likes.<br />
+        However, not everybody is a big fan of PowerPoint and Keynote and the likes.<br/>
         Many authors argue that power point's typical bullet point layout is not a good format for presentations
         and that fancy effects and text-heavy slides distract from the presenter instead of supporting their talk.
       </Notes>
@@ -291,7 +291,7 @@ ReactDOM.render( (
         Biggest competetor to slide-based: canvas-based tools risen in popularity over recent years<br/>
         <br/><br/><br/><br/>
         Another reason why people oppose power point like presentations is that their linear slide structure
-        does not support narrative flow.<br />
+        does not support narrative flow.<br/>
         For this reason alternative forms of presentations, so called canvas-based tools have risen in popularity
         over the recent years.
       </Notes>
@@ -304,7 +304,7 @@ ReactDOM.render( (
         Lichtschlag and others: zooming metaphor to dive into sub-topics, zooming out again to give overview.<br/>
         Easier to zoom in/out, jump between topics: narrative flow ++<br/>
         <br/><br/><br/><br/>
-        The most prominent canvas-based presentation tool being prezi.<br />
+        The most prominent canvas-based presentation tool being prezi.<br/>
         With prezi, the presentation's author has an infinite canvas to move accross.<br/>
         On this canvas, sliding, rotating and zooming are the most important motions to move between content.<br/>
         A study by Lichtschlag and others examining the most popular prezi presentations, found that most authors
@@ -322,7 +322,7 @@ ReactDOM.render( (
         Overlaying other slides, never leaving current slide --> easier to return + jump<br/>
         <br/><br/><br/><br/>
         Dieberger and others also tried to make it easier to maintain said narrative flow, by offering a system that makes it
-        easier for the presenter to navigate between slides.<br />
+        easier for the presenter to navigate between slides.<br/>
         Their work concentrates on a mechanism to browse through all slides by overlaying it,
         allowing them to never leave the current slide, thus making it easier to return to it and jump without
         interrupting the flow of the presentation.
@@ -374,7 +374,7 @@ ReactDOM.render( (
         Improve interactivity: possible to interact with current slide directly<br/>
         Projecting speaker behind slide, follow gaze + body language
         <br/><br/><br/><br/>
-        A very different approach was chosen by Tan and others.<br />
+        A very different approach was chosen by Tan and others.<br/>
         They try to concentrate on improving the interactivity of presentations by making it possible for the
         speaker to interact with the current slide while presenting.<br/>
         By projecting the speaker behind the slide, the audience can also follow the presenter's gaze and body language.
