@@ -9,7 +9,7 @@ import {
   Redirect, Link,
   Voting, Question, Answer,
   VotingController, VotingReceiver, VotingCreator, VotingNavigatableSetter,
-  MediaSender, MediaReceiver, MediaAcceptor
+  MediaSender, LinkSender, MediaReceiver, MediaAcceptor
 } from '../../unveil-interactive/src';
 
 import createSocket from '../../unveil-network-sync/src/helpers/createSocket'
@@ -20,7 +20,7 @@ let modes = {
     controls : [
       KeyControls, TouchControls, UIControls,
       NavigationReceiver,
-      MediaSender, MediaReceiver,
+      MediaSender, LinkSender, MediaReceiver,
       VotingNavigatableSetter, VotingReceiver
     ],
     presenter: Presenter
@@ -185,8 +185,7 @@ ReactDOM.render( (
       </Notes>
     </Slide>
     <Slide name="intro-ip">
-      <h1>10.29.0.148:9000</h1>
-      <img src='https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2F10.29.0.148%3A9000&chs=200x200&choe=UTF-8&chld=L|2' rel='nofollow' alt='qr code' />
+      <h1>http://<strong>192.168.1.239:9000</strong></h1>
       <Notes>
         Lend me ear for next 15min, navigate laptops + phones to...
         Scan QR Code.<br/>
